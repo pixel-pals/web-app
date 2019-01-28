@@ -1,0 +1,13 @@
+:root {
+  --color-primary: #8bb565;
+  --color-secondary: #3d3e4b;
+  --color-accent: #7b495d;
+  --color-text: #c2c2c2;
+
+  --font-primary: 'Open Sans', sans-serif;
+  --font-secondary: 'Montserrat', sans-serif;
+}
+
+html {
+  font-family: var(--font-primary);
+}
