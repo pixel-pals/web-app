@@ -1,0 +1,4 @@
+patterns:
+  cards:
+    width: 20em
+    padding: 2em
