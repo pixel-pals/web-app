@@ -1,15 +1,10 @@
 .breakfast-banner {
-  height: 100vh;
+  height: 30vh;
   background:
-    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) top left / cover no-repeat,
+    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) bottom left / cover no-repeat,
     url("../images/breakfast-banner.jpg") 100% / cover no-repeat fixed;
 }
 
 .banner-content {
   color: #fff;
-  top: 0;
-  left: 0;
-  transform: translate(0, 50%);
-  text-align: center;
-  width: 100%;
 }
