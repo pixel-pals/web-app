@@ -1,0 +1,16 @@
+.banner-content-case {
+  top: 0;
+  left: 0;
+  transform: translate(0, 50%);
+  text-align: center;
+  width: 100%;
+}
+
+.breakfast-banner {
+  height: 60vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)) top left / cover no-repeat,
+    url("../images/breakfast-banner.jpg") 90% / cover no-repeat fixed;
+  text-align: center;
+}
+}
