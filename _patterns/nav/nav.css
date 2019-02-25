@@ -40,11 +40,19 @@ input {
 .sidebar a {float: left;}
 }
 
+li {
+  padding-bottom: 5em;
+}
+
 @media only screen and (max-width: 400px) {
 
 .sidebar a {
 text-align: center;
 float: none;
+}
+
+li {
+  padding-bottom: 0em;
 }
 
 }
