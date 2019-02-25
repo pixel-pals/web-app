@@ -41,7 +41,7 @@ input {
 }
 
 li {
-  padding-bottom: 5em;
+  padding-bottom: 4.5em;
 }
 
 @media only screen and (max-width: 400px) {
