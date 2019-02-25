@@ -25,7 +25,12 @@
   color: #ffffff;
 }
 
-@media only screen and (max-width: 800px) {
+input {
+  border-radius: 30px;
+  border: none;
+}
+
+@media only screen and (max-width: 400px) {
 
 .sidebar {
   width: 100%;
@@ -40,6 +45,10 @@
 .sidebar a {
 text-align: center;
 float: none;
+}
+
+.logo {
+  width: 80%
 }
 
 }
