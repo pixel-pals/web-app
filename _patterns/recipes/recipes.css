@@ -1,0 +1,36 @@
+.first {
+  padding: 0;
+  margin: 0;
+  display: inline;
+  margin-right: 5px;
+  vertical-align: baseline;
+  color: var(--color-primary);
+}
+
+.subtitle {
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  display: inline;
+  vertical-align: baseline;
+  color: var(--color-text);
+}
+
+.milli {
+  color: var(--color-text);
+}
+
+.second {
+  padding: 0;
+  margin: 0;
+  display: inline;
+  margin-right: 5px;
+  vertical-align: baseline;
+  color: var(--color-primary);
+}
+
+.ingredients {
+  padding: 0;
+  margin:0;
+  color: var(--color-text);
+}
