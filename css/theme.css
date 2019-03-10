@@ -13,6 +13,16 @@ html {
   font-family: var(--font-primary);
 }
 
-.img-card {
+.content {
+  margin-left: 250px;
+}
+
+@media only screen and (max-width: 400px) {
+
+.content {
+  width: 70%;
   display: block;
+  margin: 0 auto;
+}
+
 }
