@@ -11,3 +11,15 @@ patterns:
   dessert-card:
     width: 20em
     padding: 2em
+  waffle-card:
+    width: 20em
+    padding: 2em
+  pancakes-card:
+    width: 20em
+    padding: 2em
+  oatmeal-card:
+    width: 20em
+    padding: 2em
+  omelette-card:
+    width: 20em
+    padding: 2em
