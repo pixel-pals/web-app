@@ -1,4 +1,7 @@
 patterns:
-  cards:
+  breakfast-card:
+    width: 20em
+    padding: 2em
+  lunch-card:
     width: 20em
     padding: 2em
