@@ -1,3 +1,5 @@
 patterns:
-  banner:
+  breakfast-banner:
+    height: 500
+  favourites-banner:
     height: 500
