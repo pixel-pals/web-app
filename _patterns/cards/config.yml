@@ -35,3 +35,27 @@ patterns:
   fries-card:
     width: 20em
     padding: 2em
+  pasta:
+    width: 20em
+    padding: 2em
+  chicken-card:
+    width: 20em
+    padding: 2em
+  stir-fry-card:
+    width: 20em
+    padding: 2em
+  soup-card:
+    width: 20em
+    padding: 2em
+  split-card:
+    width: 20em
+    padding: 2em
+  pie-card:
+    width: 20em
+    padding: 2em
+  smoothie-card:
+    width: 20em
+    padding: 2em
+  yogurt-card:
+    width: 20em
+    padding: 2em
