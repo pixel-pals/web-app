@@ -23,3 +23,15 @@ patterns:
   omelette-card:
     width: 20em
     padding: 2em
+  burger-card:
+    width: 20em
+    padding: 2em
+  wrap-card:
+    width: 20em
+    padding: 2em
+  salad-card:
+    width: 20em
+    padding: 2em
+  fries-card:
+    width: 20em
+    padding: 2em
