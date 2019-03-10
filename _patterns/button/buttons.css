@@ -1,15 +1,15 @@
 .btn {
-background-color: var(--color-primary);
-color: #ffffff;
-border-radius: 25px;
-border: none;
-box-shadow: 0px 5px 0px var(--color-dark-green);
+  background-color: var(--color-primary);
+  color: #ffffff;
+  border-radius: 25px;
+  border: none;
+  box-shadow: 0px 5px 0px var(--color-dark-green);
 }
 
 .btn:hover {
-background-color: var(--color-text);
-color: var(--color-secondary);
-box-shadow: 0px 5px 0px var(--color-secondary);
+  background-color: var(--color-text);
+  color: var(--color-secondary);
+  box-shadow: 0px 5px 0px var(--color-secondary);
 }
 
 .purple {
@@ -21,7 +21,7 @@ box-shadow: 0px 5px 0px var(--color-secondary);
 }
 
 .purple:hover {
-background-color: var(--color-text);
-color: var(--color-secondary);
-box-shadow: 0px 5px 0px var(--color-secondary);
+  background-color: var(--color-text);
+  color: var(--color-secondary);
+  box-shadow: 0px 5px 0px var(--color-secondary);
 }

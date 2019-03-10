@@ -5,3 +5,9 @@ patterns:
   lunch-card:
     width: 20em
     padding: 2em
+  dinner-card:
+    width: 20em
+    padding: 2em
+  dessert-card:
+    width: 20em
+    padding: 2em
