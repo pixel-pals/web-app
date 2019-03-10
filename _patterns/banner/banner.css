@@ -36,3 +36,10 @@
     linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) bottom left / cover no-repeat,
     url("../images/dessert.jpg") 100% / cover no-repeat fixed;
 }
+
+.customize-banner {
+  height: 30vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) bottom left / cover no-repeat,
+    url("../images/customize-banner.jpg") 100% / cover no-repeat fixed;
+}
