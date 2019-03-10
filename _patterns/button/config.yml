@@ -1,3 +1,5 @@
 patterns:
-  buttons:
+  green-button:
+    padding: 1em
+  purple-button:
     padding: 1em

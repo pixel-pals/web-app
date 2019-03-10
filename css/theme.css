@@ -12,3 +12,7 @@
 html {
   font-family: var(--font-primary);
 }
+
+.img-card {
+  display: block;
+}

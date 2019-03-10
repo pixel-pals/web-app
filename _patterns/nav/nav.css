@@ -30,6 +30,10 @@ input {
   border: none;
 }
 
+.icon-label {
+  color: #ffffff;
+}
+
 @media only screen and (max-width: 400px) {
 
 .sidebar {
