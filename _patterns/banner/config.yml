@@ -11,3 +11,5 @@ patterns:
     height: 500
   customize-banner:
     height: 500
+  recipe-banner:
+    height: 500
