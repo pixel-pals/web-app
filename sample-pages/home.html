@@ -2,8 +2,24 @@
 layout: default
 ---
 
-<div class="grid">
+{% pattern nav/nav %}
 
+<div class="grid content">
 
+  <div class="unit xs-1 s-1 m-1 l-1-2 island">
+    {% pattern cards/breakfast-card %}
+  </div>
+
+  <div class="unit xs-1 s-1 m-1 l-1-2 island">
+    {% pattern cards/lunch-card %}
+  </div>
+
+  <div class="unit xs-1 s-1 m-1 l-1-2 island">
+    {% pattern cards/dinner-card %}
+  </div>
+
+  <div class="unit xs-1 s-1 m-1 l-1-2 island">
+    {% pattern cards/dessert-card %}
+  </div>
 
 </div>

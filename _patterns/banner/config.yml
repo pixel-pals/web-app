@@ -1,3 +1,15 @@
 patterns:
-  banner:
+  breakfast-banner:
+    height: 500
+  favourites-banner:
+    height: 500
+  lunch-banner:
+    height: 500
+  dinner-banner:
+    height: 500
+  dessert-banner:
+    height: 500
+  customize-banner:
+    height: 500
+  recipe-banner:
     height: 500

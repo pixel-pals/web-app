@@ -8,3 +8,45 @@
 .banner-content {
   color: #fff;
 }
+
+.favourites-banner {
+  height: 30vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) bottom left / cover no-repeat,
+    url("../images/favourites-banner.jpg") 100% / cover no-repeat fixed;
+}
+
+.lunch-banner {
+  height: 30vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) bottom left / cover no-repeat,
+    url("../images/lunch.jpg") 100% / cover no-repeat fixed;
+}
+
+.dinner-banner {
+  height: 30vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) bottom left / cover no-repeat,
+    url("../images/dinner.jpg") 100% / cover no-repeat fixed;
+}
+
+.dessert-banner {
+  height: 30vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) bottom left / cover no-repeat,
+    url("../images/dessert.jpg") 100% / cover no-repeat fixed;
+}
+
+.customize-banner {
+  height: 30vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) bottom left / cover no-repeat,
+    url("../images/customize-banner.jpg") 100% / cover no-repeat fixed;
+}
+
+.recipe-banner {
+  height: 30vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)) bottom left / cover no-repeat,
+    url("../images/recipe-banner.jpg") 100% / cover no-repeat fixed;
+}

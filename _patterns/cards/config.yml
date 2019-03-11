@@ -11,3 +11,51 @@ patterns:
   dessert-card:
     width: 20em
     padding: 2em
+  waffle-card:
+    width: 20em
+    padding: 2em
+  pancakes-card:
+    width: 20em
+    padding: 2em
+  oatmeal-card:
+    width: 20em
+    padding: 2em
+  omelette-card:
+    width: 20em
+    padding: 2em
+  burger-card:
+    width: 20em
+    padding: 2em
+  wrap-card:
+    width: 20em
+    padding: 2em
+  salad-card:
+    width: 20em
+    padding: 2em
+  fries-card:
+    width: 20em
+    padding: 2em
+  pasta:
+    width: 20em
+    padding: 2em
+  chicken-card:
+    width: 20em
+    padding: 2em
+  stir-fry-card:
+    width: 20em
+    padding: 2em
+  soup-card:
+    width: 20em
+    padding: 2em
+  split-card:
+    width: 20em
+    padding: 2em
+  pie-card:
+    width: 20em
+    padding: 2em
+  smoothie-card:
+    width: 20em
+    padding: 2em
+  yogurt-card:
+    width: 20em
+    padding: 2em

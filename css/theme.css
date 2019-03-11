@@ -13,6 +13,32 @@ html {
   font-family: var(--font-primary);
 }
 
-.img-card {
+.content {
+  margin-left: 250px;
+}
+
+.top {
+  margin-left: 200px;
+}
+
+.pasta {
+  margin-left: 200px;
+}
+
+@media only screen and (max-width: 400px) {
+
+.content {
+  width: 70%;
   display: block;
+  margin: 0 auto;
+}
+
+.top {
+  margin-left: 0;
+}
+
+.pasta {
+  margin-left: 0;
+}
+
 }
