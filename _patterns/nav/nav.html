@@ -7,19 +7,19 @@
   </div>
   <ul class="list-group">
     <li>
-      <a class="bold active" href="/sample-pages/home/index.html">
+      <a class="bold {% if page.url contains 'home' %}active{% endif %}{% if page.url == '/' %}active{% endif %}" href="/sample-pages/home/index.html">
       <img class="icon i-1 push-r-3-4" src="/images/home.svg" alt="">
       <span class="icon-label micro">HOME</span>
       </a>
     </li>
     <li>
-      <a class="bold" href="/sample-pages/favourites/index.html">
+      <a class="bold {% if page.url contains 'favourites' %}active{% endif %}" href="/sample-pages/favourites/index.html">
       <img class="icon i-1 push-r-1-2" src="/images/favourite.svg" alt="">
       <span class="icon-label micro">FAVOURTIES</span>
       </a>
     </li>
     <li>
-      <a class="bold" href="/sample-pages/customize/index.html">
+      <a class="bold {% if page.url contains 'customize' %}active{% endif %}" href="/sample-pages/customize/index.html">
       <img class="icon i-1 push-r-1-2" src="/images/customize.svg" alt="">
       <span class="icon-label micro">CUSTOMIZE</span>
       </a>
